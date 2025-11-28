@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 import { useState } from "react"
+=======
+>>>>>>> Stashed changes
 import './App.css'
 function App() {
   const [tarefa, setTarefa] = useState("")
@@ -7,6 +10,7 @@ function App() {
   
 
   return (
+<<<<<<< Updated upstream
     <>
     <div className="container"> 
     <h1> Lista de Tarefas</h1>
@@ -14,6 +18,8 @@ function App() {
    <button>Adicionar</button>
     </div>
      </>
+=======
+>>>>>>> Stashed changes
     
   )
 }
